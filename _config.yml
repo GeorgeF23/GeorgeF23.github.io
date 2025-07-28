@@ -21,7 +21,7 @@ author: 'George Floarea'
 
 paginate:	5
 
-url: "https://GeorgeF23.github.io" # the base hostname & protocol for your site
+url: "https://fullstacknotes.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
