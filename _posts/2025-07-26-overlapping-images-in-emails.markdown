@@ -2,7 +2,6 @@
 layout: post
 title:  "Overlapping images in emails (including Outlook)"
 date:   2025-07-26 21:20:00
-categories: html email
 ---
 # The problem
 Recently, I had to create an email template that contains multiple images and the designer came up with this design:
